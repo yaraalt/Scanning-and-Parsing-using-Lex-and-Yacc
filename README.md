@@ -1,4 +1,6 @@
 # Scanning-and-Parsing-using-Lex-and-Yacc
+The Lex tool is used for writing the scanner and the Yacc tool is used to generate the parser for a programming language called "MyLang". The details of the language are noted in the file "Project.pdf".
+
 To run the program you need to:
 - Open the terminal at the program folder
 - Write "yacc -d phase2.y" in the terminal
